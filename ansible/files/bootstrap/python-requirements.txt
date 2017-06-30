@@ -1,5 +1,5 @@
 python_moztelemetry>=0.5,<1.0.0
-python_mozaggregator
+python-mozaggregator==0.2.6.8
 montecarlino
 jupyter-notebook-gist>=0.4.0,<1.0.0
 jupyter-spark>=0.3.0,<1.0.0
